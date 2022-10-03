@@ -1,2 +1,2 @@
-# Brain-Tumor-Detection
+# Lung-Cancer-Detection
 Using a Machine Learning Model
