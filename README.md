@@ -1,2 +1,9 @@
 # Lung-Cancer-Detection
-Using a Machine Learning Model
+## Using Some Of The Machine Learning Model SUch as:
+logistic regression
+
+Tree Decision
+
+Polynomial Features
+
+MLPClassifier
