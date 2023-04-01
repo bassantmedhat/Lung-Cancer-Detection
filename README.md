@@ -1,6 +1,6 @@
 # Lung-Cancer-Detection
 ## Using Some Of The Machine Learning Model SUch as:
-logistic regression
+### logistic regression
 ### Confusion Matrix
 
 <br></br>
