@@ -12,7 +12,7 @@
 ![correlation_map (3)](https://user-images.githubusercontent.com/85830264/229650336-f1be3a2e-45fb-47ea-a98c-ceb9b50cdba3.png)
 
 <br></br>
-<p align="center"></p>
+
 - Histogram for the presence of cancer
 
 
